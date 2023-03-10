@@ -1,0 +1,49 @@
+#home {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+
+#title,
+.ref-color {
+    color: #a9792b;
+}
+
+#title {
+    font-size: 44px;
+}
+
+.green-bg {
+    background-color: green;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.red-bg {
+    background-color: red;
+}
+
+.green-bg,
+.white-bg,
+.red-bg {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.color-1 {
+    color: white;
+}
+
+.color-2 {
+    color: black;
+}
+
+.recipe-size {
+    font-size: 18px;
+}
+
+.img-size {
+    width: 300px; 
+    height: auto;
+}
